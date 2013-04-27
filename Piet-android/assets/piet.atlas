@@ -1,0 +1,138 @@
+
+piet.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+body
+  rotate: false
+  xy: 1, 421
+  size: 217, 576
+  orig: 217, 576
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 1, 147
+  size: 173, 272
+  orig: 173, 272
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 220, 859
+  size: 100, 138
+  orig: 100, 138
+  offset: 0, 0
+  index: -1
+left-eye
+  rotate: false
+  xy: 1, 7
+  size: 100, 138
+  orig: 100, 138
+  offset: 0, 0
+  index: -1
+left-eyebrow
+  rotate: false
+  xy: 220, 719
+  size: 100, 138
+  orig: 100, 138
+  offset: 0, 0
+  index: -1
+right-eye
+  rotate: false
+  xy: 322, 859
+  size: 100, 138
+  orig: 100, 138
+  offset: 0, 0
+  index: -1
+right-eyebrow
+  rotate: false
+  xy: 220, 579
+  size: 100, 138
+  orig: 100, 138
+  offset: 0, 0
+  index: -1
+right-upper-leg
+  rotate: false
+  xy: 322, 711
+  size: 79, 146
+  orig: 79, 146
+  offset: 0, 0
+  index: -1
+left-upper-leg
+  rotate: false
+  xy: 220, 431
+  size: 73, 146
+  orig: 73, 146
+  offset: 0, 0
+  index: -1
+left-lower-leg
+  rotate: false
+  xy: 103, 1
+  size: 66, 144
+  orig: 66, 144
+  offset: 0, 0
+  index: -1
+right-shoulder
+  rotate: false
+  xy: 176, 261
+  size: 55, 158
+  orig: 55, 158
+  offset: 0, 0
+  index: -1
+right-lower-leg
+  rotate: false
+  xy: 233, 274
+  size: 61, 155
+  orig: 61, 155
+  offset: 0, 0
+  index: -1
+left-shoulder
+  rotate: false
+  xy: 424, 857
+  size: 40, 140
+  orig: 40, 140
+  offset: 0, 0
+  index: -1
+left-arm
+  rotate: false
+  xy: 322, 595
+  size: 47, 114
+  orig: 47, 114
+  offset: 0, 0
+  index: -1
+right-arm
+  rotate: false
+  xy: 176, 156
+  size: 47, 103
+  orig: 47, 103
+  offset: 0, 0
+  index: -1
+right-foot
+  rotate: false
+  xy: 403, 781
+  size: 60, 74
+  orig: 60, 74
+  offset: 0, 0
+  index: -1
+left-shoe
+  rotate: false
+  xy: 403, 730
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+right-hand
+  rotate: false
+  xy: 466, 943
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+left-hand
+  rotate: false
+  xy: 371, 660
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,40 @@
+
+assets.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+track-lines
+  rotate: false
+  xy: 1, 93
+  size: 512, 384
+  orig: 512, 384
+  offset: 0, 0
+  index: -1
+track-f
+  rotate: false
+  xy: 1, 1
+  size: 73, 90
+  orig: 73, 90
+  offset: 0, 0
+  index: -1
+track-j
+  rotate: false
+  xy: 515, 387
+  size: 73, 90
+  orig: 73, 90
+  offset: 0, 0
+  index: -1
+track-n
+  rotate: false
+  xy: 76, 1
+  size: 73, 90
+  orig: 73, 90
+  offset: 0, 0
+  index: -1
+track-v
+  rotate: false
+  xy: 515, 295
+  size: 73, 90
+  orig: 73, 90
+  offset: 0, 0
+  index: -1

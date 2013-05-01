@@ -1,0 +1,9 @@
+TODO:
+- Get different tracks working for different levels
+- Make sure levels have a startLevel() function
+- Finish the home screen (load the background), make the buttons, make it respond and start the game properly when clicked
+- Move game scoring stuff into it's own separate class
+- Make it so you need to 100% minimal to move on to the next level
+
+CURRENTLY WORKING ON
+- Making the home screen work, figuring out why animation is in the wrong spot, making the home screen click through and start the level

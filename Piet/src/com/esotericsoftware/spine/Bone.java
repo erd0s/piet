@@ -33,7 +33,8 @@ import com.badlogic.gdx.math.Matrix3;
 public class Bone {
 	final BoneData data;
 	final Bone parent;
-	float x, y;
+	public float x;
+	public float y;
 	float rotation;
 	float scaleX, scaleY;
 

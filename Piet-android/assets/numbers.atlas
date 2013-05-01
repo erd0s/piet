@@ -1,0 +1,75 @@
+
+numbers.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num
+  rotate: false
+  xy: 1, 1
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: 0
+num
+  rotate: false
+  xy: 83, 1
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: 1
+num
+  rotate: false
+  xy: 165, 1
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: 2
+num
+  rotate: false
+  xy: 247, 1
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: 3
+num
+  rotate: false
+  xy: 329, 1
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: 4
+num
+  rotate: false
+  xy: 411, 1
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: 5
+num
+  rotate: false
+  xy: 493, 1
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: 6
+num
+  rotate: false
+  xy: 575, 1
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: 7
+num
+  rotate: false
+  xy: 657, 1
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: 8
+num
+  rotate: false
+  xy: 739, 1
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: 9

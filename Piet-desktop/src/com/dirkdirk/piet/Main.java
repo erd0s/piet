@@ -8,8 +8,8 @@ public class Main {
 		LwjglApplicationConfiguration cfg = new LwjglApplicationConfiguration();
 		cfg.title = "Piet";
 		cfg.useGL20 = false;
-		cfg.width = 640;
-		cfg.height = 480;
+		cfg.width = 1024;
+		cfg.height = 768;
 		
 		new LwjglApplication(new Piet(), cfg);
 	}

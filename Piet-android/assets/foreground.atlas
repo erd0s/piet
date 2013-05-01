@@ -1,0 +1,12 @@
+
+foreground.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+level-up
+  rotate: false
+  xy: 1, 1
+  size: 554, 230
+  orig: 554, 230
+  offset: 0, 0
+  index: -1

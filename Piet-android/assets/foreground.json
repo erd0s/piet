@@ -1,0 +1,49 @@
+{
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "level-up", "bone": "root", "color": "ffffff00", "attachment": "level-up" }
+],
+"skins": {
+	"default": {
+		"level-up": {
+			"level-up": { "x": -11.7, "y": -8.8, "width": 554, "height": 230 }
+		}
+	}
+},
+"animations": {
+	"levelUpExplode": {
+		"bones": {
+			"root": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.574, 2.26, 0.663, 0.75 ]
+					},
+					{ "time": 0.4666, "x": 1.599, "y": 2 }
+				]
+			}
+		},
+		"slots": {
+			"level-up": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1333, "color": "ff09003f" },
+					{ "time": 0.2666, "color": "4200ff7f" },
+					{ "time": 0.4, "color": "11ff00df" },
+					{ "time": 0.4666, "color": "ffffffff", "curve": "stepped" },
+					{
+						"time": 0.6,
+						"color": "ffffffff",
+						"curve": [ 0.129, 0.9, 0.75, 1 ]
+					},
+					{ "time": 1.1333, "color": "ffffff00" }
+				]
+			}
+		}
+	}
+}
+}
